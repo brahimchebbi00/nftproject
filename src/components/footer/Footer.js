@@ -61,7 +61,7 @@ export default class Footer extends Component {
                             <li><a href="#!">Create</a></li>
                         </ul>
 
-                        <p className="text-center">Copyright @2021 | Designed by <a href="#!">Bilel.M</a></p>
+                        <p className="text-center">Copyright @2021 | Designed by <a href="#!">Tn.team</a></p>
                         <ul className="social_footer_ul" style={{ margin:'0 0 0 35%'}}>
                             <li><a href="#!"><i className="fa fa-facebook-f" /></a></li>
                             <li><a href="#!"><i className="fa fa-twitter" /></a></li>
